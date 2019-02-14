@@ -33,5 +33,8 @@ end
 
 def pizza_party
   size = "large"
-  
+  topping = "cheese"
 end
+
+def pizza_party
+  
