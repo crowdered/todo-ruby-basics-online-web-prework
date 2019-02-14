@@ -28,7 +28,7 @@ end
 
 def last_evaluated_value
   name = "Mark"
-  skill_level = "ex"
+  skill_level = "expert"
 end
 
 def pizza_party
