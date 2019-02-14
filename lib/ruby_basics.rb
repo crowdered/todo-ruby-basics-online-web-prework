@@ -37,4 +37,5 @@ def pizza_party
 end
 
 def pizza_party
-  
+  second_topping = "pepperoni"
+  puts second_topping
