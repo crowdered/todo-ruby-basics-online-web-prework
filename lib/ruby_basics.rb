@@ -1,17 +1,19 @@
-def division(num1, num2)
- 
+def division(num1,num2)
+  num1 = 42, num2 = 7
+  sum = "num1" / "num2"
+  puts sum
 end
 
-def assign_variable(value)
-  
+def assign_variable(name)
+  name = "Bob"
 end
 
 def argue
-  
+  phrase = "I'm right and you are wrong!"
 end
 
-def greeting
-
+def greeting(greeting,name)
+  phrase = 
 end
 
 def return_a_value
