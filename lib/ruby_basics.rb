@@ -10,6 +10,7 @@ end
 
 def argue
   phrase = "I'm right and you are wrong!"
+  argue (phrase)
 end
 
 def greeting(greeting,name)
