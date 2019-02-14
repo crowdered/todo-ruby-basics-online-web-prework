@@ -13,7 +13,8 @@ def argue
 end
 
 def greeting(greeting,name)
-  puts "#{greeting} #"
+  puts "#{greeting} #{name}!"
+  greeting
 end
 
 def return_a_value
